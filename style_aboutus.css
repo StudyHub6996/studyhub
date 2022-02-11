@@ -1,0 +1,53 @@
+*{
+    margin:10px;
+    padding:0px;
+    font-family:Comic sans ms;
+  }
+
+
+  
+  body{
+    background-image:url(img_1.png);
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+  }
+
+  #bg_1{
+      width:400px;
+      
+  }
+
+  #heading h1{
+    color:#ffffff;
+    border-bottom:5px solid #E4B00A;  
+    border-width: 5px ;
+    border-width: 5px;
+  }
+
+  #heading h3{
+      color:#ffffff;
+  }
+
+  p{
+      color:#ffffff;
+  }
+
+  #description ul li {
+      color: #fff;
+  }
+
+  #links ul{
+      list-style-type:none;
+  }
+
+  #links ul li a{
+    color:#fffb00;
+    text-decoration: underline;
+  }
+
+  #links ul li a:hover{
+      color:rgb(255, 61, 61);
+      transition: 0.25s;
+  }

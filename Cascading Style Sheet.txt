@@ -1,0 +1,55 @@
+Cascading Style Sheet 
+
+Class and ID
+
+Class is used to select multiple element at a time. On the other hand 
+Id element is used to select a single element at a time
+
+Both defined inside element tag with "class" and "id" attribute.
+
+Selector 
+1. * Universal Selector
+As the name suggest select every element.
+
+2. Class & Id selector
+Fomrmat
+
+.(Class Name){
+}
+
+#(Id Name){
+}
+
+3. Element Selector
+h1{
+}
+p{
+}
+Here every "h1" element is selected 
+
+4. Multiple selector
+h1,h2.h3{
+}
+
+5. Parent Child Selector 
+ul li a{
+}
+Here "ul" is parent element and "a" is child element.
+
+
+Common Codes
+1. Font
+
+color:;
+font-family:;
+font-size:;
+
+2. Border
+border:;
+border-top:; (And so on)
+border-color:;
+border-radius:;
+border-type:;
+
+
+ 
